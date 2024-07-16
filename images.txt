@@ -2,3 +2,4 @@ grafana/grafana
 postgis/postgis
 redis
 rabbitmq
+nacos/nacos-server
