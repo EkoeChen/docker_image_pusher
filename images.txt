@@ -1,3 +1,4 @@
 grafana/grafana
 postgis/postgis
-oraclelinux
+redis
+rabbitmq
