@@ -3,3 +3,10 @@ postgis/postgis
 redis
 rabbitmq
 nacos/nacos-server
+postgres
+nginx
+mysql
+apache/rocketmq
+apache/skywalking-oap-server
+apache/skywalking-ui
+openjdk
