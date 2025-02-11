@@ -11,3 +11,4 @@ apache/skywalking-oap-server
 apache/skywalking-ui
 openjdk
 mysql:5.7
+ollama
