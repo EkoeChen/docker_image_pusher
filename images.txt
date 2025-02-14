@@ -1,3 +1,4 @@
+mintplexlabs/anythingllm
 ollama/ollama
 grafana/grafana
 postgis/postgis
