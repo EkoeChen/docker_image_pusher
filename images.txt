@@ -1,3 +1,4 @@
+stabilityai/stable-diffusion
 ghcr.io/open-webui/open-webui:main
 mintplexlabs/anythingllm
 ollama/ollama
