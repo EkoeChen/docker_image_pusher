@@ -1,3 +1,4 @@
+centos:7.9.2009
 ghcr.io/open-webui/open-webui:main
 mintplexlabs/anythingllm
 ollama/ollama
@@ -14,4 +15,3 @@ apache/skywalking-oap-server
 apache/skywalking-ui
 openjdk
 mysql:5.7
-centos:centos7.9.2009
