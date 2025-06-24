@@ -4,7 +4,7 @@ mintplexlabs/anythingllm:master
 ollama/ollama:0.9.0
 grafana/grafana:11.6.2
 postgis/postgis:17-master
-redis:7.4
+redis:7.0.4
 rabbitmq:4.1-management
 nacos/nacos-server:v2.4.3
 postgres:17
@@ -13,4 +13,11 @@ apache/rocketmq
 apache/skywalking-oap-server
 apache/skywalking-ui
 openjdk
-mysql:5.7
+mysql:8.0
+onlyoffice/documentserver:7.1.1
+dataelement/bisheng-backend:v1.3.0
+dataelement/bisheng-frontend:v1.3.0
+docker.io/bitnami/elasticsearch:8.12.0
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.5.10
